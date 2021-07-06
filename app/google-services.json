@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "339923744705",
+    "firebase_url": "https://emergencyservices-faad4.firebaseio.com",
+    "project_id": "emergencyservices-faad4",
+    "storage_bucket": "emergencyservices-faad4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339923744705:android:c69d5cafb9cd3ea3c9a140",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339923744705-0octjbiss34m1a3u9c8pqbovnnkb3jbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiJRTGcBMSJC33Q7Jw4IUWZsRkWZ0BM_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339923744705-0octjbiss34m1a3u9c8pqbovnnkb3jbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339923744705:android:10b9b8c7afd5986d",
+        "android_client_info": {
+          "package_name": "project.bcs.emergencyservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339923744705-snmkt44gdj5ubhv8kbpvd700q6u9nl12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "project.bcs.emergencyservices",
+            "certificate_hash": "e3855affda9689f085bb733742c303b76bc1dbf0"
+          }
+        },
+        {
+          "client_id": "339923744705-0octjbiss34m1a3u9c8pqbovnnkb3jbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiJRTGcBMSJC33Q7Jw4IUWZsRkWZ0BM_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339923744705-0octjbiss34m1a3u9c8pqbovnnkb3jbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
